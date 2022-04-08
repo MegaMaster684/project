@@ -81,7 +81,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    My Bogdan ssshjhjkljbjkbkbhjkg kj gyjugjkjkljh sdklhvadsjklghefs kljgnusefiolg
+                    My Bogdan New Master 222
                 </div>
 
                 <div class="links">
