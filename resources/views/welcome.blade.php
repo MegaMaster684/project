@@ -81,7 +81,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    My Bogdan sss
+                    My Bogdan ssshjhjklj
                 </div>
 
                 <div class="links">
