@@ -63,6 +63,9 @@
             }
         </style>
     </head>
+    <script>
+        Bogdan
+    </script>
     <body>
         <div class="flex-center position-ref full-height">
             @if (Route::has('login'))
@@ -81,9 +84,14 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    My Bogdan New Master 222
-                </div>
+                    Main:
+                    <?php 
+                    define("papa", "mam");
+                    echo papa;
+                    #мой коммент
 
+                    ?>
+                </div>
                 <div class="links">
                     <a href="https://laravel.com">Docjbnjbm</a>
                     <a href="https://laracasts.com">Laracasts</a>
