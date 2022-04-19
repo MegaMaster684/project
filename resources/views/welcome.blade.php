@@ -6,19 +6,40 @@
         <title>My Project</title>
     </head>
     <body>
-        Тут я буду писать код PHP <br>
-
         <?php
-        $arr[0] = "PHP"; 
-        $arr[1] = "HTML"; 
-        $arr[2] = "CSS";
 
-        $arr[1] = "JAVASCRIPT";
-        $arr[]  = "JQUERY";
-
-        foreach($arr as $key => $value) { // при переборе: $key - индекс элемента массива, $value - значение элемента массива
-            echo $value.'<br/>';
+/*        $main = [1, 2, 3, 4, 5];
+        foreach($main as $key => $value)
+        {
+            $math = $value % 2;
+            if ($math == 1)
+                unset($main[$key]);
         }
+        print_r(array_values($main)); 
+        ?> 
+
+
+
+        $main = [1, 2, 3, 4, 5];
+        foreach($main as $key => $value)
+        {
+            $math = $value % 2;
+            if ($math == 0)
+                $main2[] = $value;
+        }
+        print_r($main2); 
+
+        $main = [1, 2, 3, 4, 5];
+        function math($var)
+        {
+        // является ли переданное число чётным
+        return !($var & 1);
+        }
+
+        echo "Чётные:\n";
+        print_r(array_values(array_filter($main, "math"))); */
         ?>
+
+
     </body>
 </html>
